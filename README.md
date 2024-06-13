@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🍒
 
-<!--
-**Gualberto06/Gualberto06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é eduarda
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo ⤵️
+
+
+
+00001075969311sp@al.educacao.sp.gov.br
+
+![bravo](https://tenor.com/pt-BR/view/annoyed-angry-disappointed-sad-mad-gif-17333624)
