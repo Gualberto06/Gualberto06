@@ -12,4 +12,4 @@ meu nome é eduarda
 
 00001075969311sp@al.educacao.sp.gov.br
 
-![bravo](https://tenor.com/pt-BR/view/annoyed-angry-disappointed-sad-mad-gif-17333624)
+![tridente](https://tenor.com/pt-BR/search/tridente-gifs)
